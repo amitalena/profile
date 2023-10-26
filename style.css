@@ -206,8 +206,9 @@ html {
     .navbar {
         overflow: hidden;
         top: 75px;
-        width: 97%;
+        width: 99%;
         left: 0;
+        right:0;
         position: absolute;
         display: block;
         text-align: left;
